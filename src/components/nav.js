@@ -43,14 +43,3 @@ const styles = {
 };
 
 export default Nav;
-
-{/*******************************************************************************************
-  File: Nav.js 
-
-  Programmer: Robin Wagubi
-
-  First Version: 26/02/26
-
-  Description: Navigation bar with user info and links to Home and Favourites pages.
-
-  ***************************************************************************************/}

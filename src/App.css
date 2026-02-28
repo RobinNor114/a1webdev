@@ -1,0 +1,62 @@
+/*styles*/
+body {
+  font-family: Times, sans-serif;
+  background-color: #c6c6cb;
+}
+
+nav a {
+  color:#fafafa;
+  text-decoration: none;
+  margin-right: 15px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color:#bdb44f;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background: rgb(255, 255, 255);
+  border-radius: 8px;
+}
+
+.post-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px 20px;
+  margin-bottom: 15px;
+  background-color: #fafafa;
+
+}
+
+.post-card h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+.post-card button {
+  padding: 7px 12px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #ac1100;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.post-card button:hover {
+  background-color: #182848;
+}
+
+select {
+  padding: 8px 12px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}

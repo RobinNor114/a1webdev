@@ -42,14 +42,3 @@ function Favourites() {
   );
 }
 export default Favourites;
-
-{/*****************************************************************************************
-  File: Favourites.js 
-
-  Programmer: Robin Wagubi
-
-  First Version: 26/02/26
-
-  Description: Displays the user's favourite posts
-
-  ***************************************************************************************/}

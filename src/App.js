@@ -17,15 +17,3 @@ function App() {
   );
 }
 export default App;
-
-{/*******************************************************************************************
-  File: App.js 
-
-  Programmer: Robin Wagubi
-
-  First Version: 26/02/26
-
-  Description: Sets up routing and renders the Navbar and pages.
-  (Put this at the bottom because apparantly the imports have to be on line 1 or I get an error)
-
-  ***************************************************************************************/}

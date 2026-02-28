@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 
 function PostCard({ post }) {
   const [isFavourite, setIsFavourite] = useState(false);
-  
+
   // check if post is in favourites
   useEffect(() => {
     const storedFavourites = localStorage.getItem("favourites");
@@ -70,13 +70,3 @@ function PostCard({ post }) {
 }
 export default PostCard;
 
-{/*******************************************************************************************
-  File: PostCard.js 
-
-  Programmer: Robin Wagubi
-
-  First Version: 26/02/26
-
-  Description: Display a single post card with favourite toggle functionality.
-
-  ***************************************************************************************/}

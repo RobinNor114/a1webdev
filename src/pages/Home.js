@@ -71,14 +71,3 @@ function Home() {
   );
 }
 export default Home;
-{/*****************************************************************************************
-  File: Home.js 
-
-  Programmer: Robin Wagubi
-
-  First Version: 26/02/26
-
-  Description: Displays a dropdown of forums. When a forum is selected, it fetches and 
-  displays the posts in that forum using PostCard
-
-  ***************************************************************************************/}

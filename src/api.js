@@ -101,14 +101,3 @@ export async function getPostsByIds(ids) {
     throw error;
   }
 }
-
-{/*****************************************************************************************
-  File: api.js 
-
-  Programmer: Robin Wagubi
-
-  First Version: 26/02/26
-
-  Description: Handles API calls for authentication, user profile, forums, and posts.
-
-  ***************************************************************************************/}
